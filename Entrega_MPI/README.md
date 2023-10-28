@@ -25,7 +25,7 @@ Los siguientes archivos son los códigos que hacen posible la ecuación, cada un
 
 Proceso de compilación es donde accedemos al entorno MPI, se carga el módulo devtools/mpi/openmpi/3.1.4, se realiza la limpieza y por último, la compilación.
 
-![](/images/compilacion.PNG "")
+![](/Entrega_MPI/images/compilacion.PNG "")
 
 ### Instrucciones de ejecución
 
