@@ -33,37 +33,37 @@ Proceso de compilación es donde accedemos al entorno MPI, se carga el módulo d
 
 Predeterminado:
 
-![](/images/ejec1.PNG "")
+![](/Entrega_MPI/images/ejec1.PNG "")
 
 Desde un archivo:
 
-![](/images/ejec21.PNG "")
+![](/Entrega_MPI/images/ejec21.PNG "")
 
 Desde un archivo y pasos de tiempo:
 
-![](/images/ejec3.PNG "")
+![](/Entrega_MPI/images/ejec3.PNG "")
 
 Dimensiones y pasos de tiempo:
 
-![](/images/ejec4.PNG "")
+![](/Entrega_MPI/images/ejec4.PNG "")
 
 #### 2. Modo Pasivo (sbatch)
 
 Crear el archivo .sh y enviar el trabajo a slurm
 
-![](/images/sbatch.PNG "")
+![](/Entrega_MPI/images/sbatch.PNG "")
 
 ### Pruebas sin mejoras de código
 
-![](/images/sin1.PNG "")
+![](/Entrega_MPI/images/sin1.PNG "")
 
-![](/images/sin2.PNG "")
+![](/Entrega_MPI/images/sin2.PNG "")
 
-![](/images/sin3.PNG "")
+![](/Entrega_MPI/images/sin3.PNG "")
 
 ### Pruebas con mejoras de código
 
-![](/images/mejora.PNG "")
+![](/Entrega_MPI/images/mejora.PNG "")
 
 ### Conclusiones
 
